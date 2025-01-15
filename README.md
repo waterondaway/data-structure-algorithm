@@ -12,8 +12,8 @@ Re-upload of **Binary Tree Program** developed using C implements a Binary Tree 
 ## Functions Examples  
 
 ### Display Current State Functions Examples
-<img src="assets/image/binary_tree_display" width="300" height="200" />  
-<img src="assets/image/delete_node" width="300" height="200" />  
+<img src="assets/image/binary_tree_display.png" width="300" height="200" />  
+<img src="assets/image/delete_node.png" width="300" height="200" />  
 
 
 ## File Structure  
